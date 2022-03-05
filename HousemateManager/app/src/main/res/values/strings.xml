@@ -1,0 +1,76 @@
+<resources>
+
+    TESTING
+    <string name="test_username">tester</string>
+    <string name="test_password">cs203team1d</string>
+
+    GENERAL
+    <string name="app_name">Housemate Manager</string>
+    <string name="add_item_button">ADD ITEM(S)</string>
+    <string name="rm_item_button">REMOVE ITEM(S)</string>
+    <string name="item_name_label">Name</string>
+    <string name="item_qty_label">Quantity</string>
+
+    USED IN INVENTORY FRAGMENT
+    <string name="inventory_label">INVENTORY</string>
+
+    USED IN SHOPPING LIST FRAGMENT
+    <string name="shopping_list_label">SHOPPING LIST</string>
+
+    Receipt Fragment
+    <string name="receipt_label">RECEIPT</string>
+    <string name="confirm_button">CONFIRM</string>
+    <string name="total_label">Your total is: </string>
+    <string name="item_price_label">Price</string>
+    <string name="debtor_label">Items for: </string>
+    <string name="done_receipt_button">DONE</string>
+    <string name="payer_label">Paid by: </string>
+    <string name="create_receipt_button">CREATE RECEIPT</string>
+    <string name="opt_in_button">OPT-IN</string>
+    <string name="opt_out_button">OPT-Out</string>
+
+    Past Receipt Fragment
+    <string name="past_receipt_default_text">No receipts saved yet</string>
+    <string name="past_receipt_date_label">Date</string>
+
+    USED IN HOME FRAGMENT
+    <string name="inventory_button">Inventory</string>
+    <string name="shopping_list_button">SHOPPING LIST</string>
+    <string name="receipt_button">Receipt</string>
+    <string name="chore_list_button">Chore List</string>
+    <string name="housemate_button">Housemates</string>
+    <string name="past_receipts_button">Past Receipts</string>
+    <string name="welcome_label">Welcome to the Housemate App!</string>
+
+    USED IN HOUSE FRAGMENT
+    <string name="Housemate_label">Housemates in This House:</string>
+    <string name="add_hm_button">Add Housemate</string>
+    <string name="rm_hm_Button">Remove Housemate</string>
+
+    USED IN CHORE LIST FRAGMENT
+    <string name="chore_list_label">CHORE LIST</string>
+    <string name="add_chore_button">Add Chore</string>
+    <string name="remove_chore_button">Remove Chore</string>
+    <string name="chore_label">Chore</string>
+    <string name="assigner_label">Assigner</string>
+    <string name="owner_label">Owner</string>
+
+
+    USED IN DEBT FRAGMENT:
+    <string name="debt_label">Debts For</string>
+    <string name="item_amount_label">Amount</string>
+    <string name="rm_debt_button">Remove Debt</string>
+    <string name="add_debt_button">Add Debt</string>
+    <string name="who_they_owe_label">Debt With:</string>
+    <string name="debts_button">Housemate Debts</string>
+    <string name="Past_Receipts_label">Past Receipts</string>
+
+
+    USED IN AUTH FRAGMENT
+    <string name="sign_in_label">Please Sign In or Register</string>
+    <string name="register_button">New House</string>
+    <string name="signin_button">Sign In</string>
+    <string name="houseName_label">House Name:</string>
+    <string name="password_label">Password</string>
+
+</resources>

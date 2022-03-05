@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521701584237",
+    "project_id": "housemate-manager-153f0",
+    "storage_bucket": "housemate-manager-153f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521701584237:android:95a8308f807a54ec4efe64",
+        "android_client_info": {
+          "package_name": "edu.vassar.cmpu203.housematemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521701584237-il03cd7gc8ng3fmbns8ebd5eoaad9rc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA17TlqLp-ZYSQzh-fm7jZgbtyGu6p9yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521701584237-il03cd7gc8ng3fmbns8ebd5eoaad9rc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
